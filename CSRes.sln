@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSRes", "src\CSRes\CSRes.csproj", "{8FE79133-C32B-47A9-8423-5B6C2212AB7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSRes.Tests", "tests\CSRes.Tests\CSRes.Tests.csproj", "{1389FD35-41B3-4539-B360-4C0D115B66DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FE79133-C32B-47A9-8423-5B6C2212AB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE79133-C32B-47A9-8423-5B6C2212AB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE79133-C32B-47A9-8423-5B6C2212AB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE79133-C32B-47A9-8423-5B6C2212AB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1389FD35-41B3-4539-B360-4C0D115B66DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1389FD35-41B3-4539-B360-4C0D115B66DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1389FD35-41B3-4539-B360-4C0D115B66DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1389FD35-41B3-4539-B360-4C0D115B66DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
